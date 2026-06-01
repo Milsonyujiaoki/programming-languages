@@ -1,0 +1,9 @@
+[submodule "java"]
+	path = java
+	url = git@github.com:Milsonyujiaoki/java.git
+[submodule "php"]
+	path = php
+	url = git@github.com:Milsonyujiaoki/php.git
+[submodule "elixir"]
+	path = elixir
+	url = git@github.com:Milsonyujiaoki/elixir.git
