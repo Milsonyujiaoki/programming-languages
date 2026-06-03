@@ -7,3 +7,9 @@
 [submodule "elixir"]
 	path = elixir
 	url = git@github.com:Milsonyujiaoki/elixir.git
+[submodule "shared/data-types"]
+	path = shared/data-types
+	url = git@github.com:Milsonyujiaoki/data-types.git
+[submodule "shared/data-structures"]
+	path = shared/data-structures
+	url = git@github.com:Milsonyujiaoki/data-structures.git
