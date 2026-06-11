@@ -7,9 +7,33 @@
 [submodule "elixir"]
 	path = elixir
 	url = git@github.com:Milsonyujiaoki/elixir.git
-[submodule "shared/data-types"]
-	path = shared/data-types
+[submodule "share/data-types"]
+	path = share/data-types
 	url = git@github.com:Milsonyujiaoki/data-types.git
-[submodule "shared/data-structures"]
-	path = shared/data-structures
+[submodule "share/data-structures"]
+	path = share/data-structures
 	url = git@github.com:Milsonyujiaoki/data-structures.git
+[submodule "cs"]
+	path = cs
+	url = git@github.com:Milsonyujiaoki/cs.git
+[submodule "cpp"]
+	path = cpp
+	url = git@github.com:Milsonyujiaoki/Cpp.git
+[submodule "C"]
+	path = C
+	url = https://github.com/Milsonyujiaoki/C.git
+[submodule "go"]
+	path = go
+	url = https://github.com/Milsonyujiaoki/go.git
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/Milsonyujiaoki/ruby.git
+[submodule "typescript"]
+	path = typescript
+	url = https://github.com/Milsonyujiaoki/typescript.git
+[submodule "javascript"]
+	path = javascript
+	url = https://github.com/Milsonyujiaoki/javascript.git
+[submodule "rust"]
+	path = rust
+	url = https://github.com/Milsonyujiaoki/rust.git
